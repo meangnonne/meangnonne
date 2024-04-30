@@ -32,7 +32,12 @@ Plan:
 Learning and growing up, <strike>trying to take over the world</strike>
 </pre>
 <h4>
-I go by *meangnonne* online and my name is Sophie Richard, spending my time on the Internet working on my projects when I'm not fulfilling my duties at work or as a housewife. After long hours of <strike>brainstorming</strike> laziness, I decided to create a website to show my wonderful talent to the World Wide Web, and finally reach the full potencial of my greatness.<br>
+I go by *meangnonne* online, spending my time on the Internet working on my projects when I'm not fulfilling my duties at work or as a housewife. After long hours of <strike>brainstorming</strike> laziness, I decided to create a website to show my wonderful talent to the World Wide Web, and finally reach the full potencial of my greatness.<br>
 <br />
-In my spare time, I am an artist drawing, painting and creating masterpieces that I proudly arborate at home because I am the best person of the universe and my husband is my only fan.
+In my spare time, I am an artist drawing, painting and creating masterpieces that I proudly arborate at home because I am the best person of the universe and my husband is my only fan.<br>
+<br />
+To be more serious</b>
+I am a Bilingual Technology Specialist based in Montréal. After a strong experience in Tech Support and different contracts in Cyber Security, IT Management as well as Development, I feel ready enough to embrace all these areas and to perform, in order to build a beautiful career and unifying my skills together. Since I'm still a junior, I have the pleasure of having to prove my worth. Indeed, this is exactly what I'm working on right now.
 </h4>
+
+
