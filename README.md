@@ -17,7 +17,7 @@ Welcome, <strike>dummie</strike> dear! </p>
 Make yourself /home 🙃
   </h2>
   <h4>
-Sorry not sorry, but my AI is quite rebellious… Well that's not true, my work is breathtaking and I leave you flabbergasted. OK fine, my fingers skidded like the skid you are and they're telling the truth! I will not elaborate too much about me, myself and I because I got many and more important stuff to do than a topic as philosophical as…
+Sorry not sorry, but my AI is quite rebellious… Well that's not true, my work is breathtaking and I leave you flabbergasted. OK fine, my fingers skidded like the skid you are and they're telling the truth! I will not elaborate too much about me, myself and I, because I got many and more important stuff to do than a topic as philosophical as…
   </h4>
 <pre> 
 $ <strong>whoami</strong>
